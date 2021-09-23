@@ -1,10 +1,7 @@
 ﻿using HarmonyLib;
 using NeosModLoader;
-using FrooxEngine;
-using BaseX;
-using System;
-using CloudX.Shared;
 using FrooxEngine.LogiX;
+
 namespace ShowHiddenNodes
 {
     public class ShowHiddenNodes : NeosMod
